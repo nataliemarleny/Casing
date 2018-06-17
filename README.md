@@ -40,14 +40,14 @@ To be added soon...!
 | ![TicTacToe example](./img/example_tictactoe.gif) | `example-tictactoe.framer`<br><br> A Casing/Framer version of the popular [React Tutorial][react-tutorial] | 
 
 [react-tutorial]: https://reactjs.org/tutorial/tutorial.html
-
+<br><br>
 ## ⃝ Components
 
 | ✕ ⃝ - **Component** | **Description** |
 | :---: | :---: |
-| ![Calendar](./img/example_calendar.png) | `FrmrDatePicker.coffee`<br><br>📅 A highly customisable 'real' calendar component for Framer<br><br> Tutorial will be made available soon|
-| ![Dropdown](./img/example_dropdown.png) | `FrmrDropdown.coffee` <br><br>👇 A dropdown menu built with real data in mind.<br><br> Currently styled with inline CSS | 
-| ![Input](./img/example_input.png) | `FrmrTextInput.coffee` <br><br> 💬 A customisable input box <br><br> Adapted from [Ajimix's input module](https://github.com/ajimix/Input-Framer)| 
+| 📅 **Date Picker**<br><br>![Calendar](./img/example_calendar.gif)<br> | `FrmrDatePicker.coffee`<br><br> A highly customisable 'real' calendar component for Framer<br><br> Tutorial will be made available soon|
+| 👇 **Drop Down**<br><br>![Dropdown](./img/example_dropdown.gif)<br> | `FrmrDropdown.coffee` <br><br> A dropdown menu built with real data in mind.<br><br> Currently styled with inline CSS | 
+| 💬 **Text Inputs**<br><br> ![Text Input](./img/example_input.gif)<br> | `FrmrTextInput.coffee` <br><br> A customisable input box <br><br> Adapted from [Ajimix's input module](https://github.com/ajimix/Input-Framer)| 
 
 ## ⃝ FAQ
 ### ✕ How will Framer X impact Casing?
