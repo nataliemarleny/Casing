@@ -18,7 +18,9 @@ Copy over following files to your `PROJECT_NAME.framer/modules/` directory:
 * `FrmrDropdown.coffee` - if you want to use a drop-down in your prototype
 * `FrmrTextInput.coffee` - if you want to use a text-input in your prototype
 
-### 🔔 In large prototypes there is a one-to-one mapping with Frames in design mode and code modules. 
+### In large prototypes there is a one-to-one mapping with:<br>
+#### ⃝ Frames in design mode
+#### ⃝ Code modules. 
 
 | ✕ ⃝ - **Modules** | **Description** |
 | :---: | :--- |
@@ -28,6 +30,7 @@ Copy over following files to your `PROJECT_NAME.framer/modules/` directory:
 ## ⃝ Getting Started
 
 To be added soon...!
+
 
 ## ⃝ Examples
 
@@ -47,7 +50,7 @@ To be added soon...!
 | ![Input](./img/example_input.png) | `FrmrTextInput.coffee` <br><br> 💬 A customisable input box <br><br> Adapted from [Ajimix's input module](https://github.com/ajimix/Input-Framer)| 
 
 ## ⃝ FAQ
-### How will Framer X impact Casing?
+### ✕ How will Framer X impact Casing?
 When Framer X is released, Casing ✕ will become open source soon after. <br><br>
 This will likely require:<br>
 <ul><li>Compiling coffeescript code into ES6</li><li>Updates to optimise the design tab workflow for Framer X</li><li>Releasing the components to the component store</li></ul>
@@ -57,4 +60,4 @@ The Casing Framework and its components will still be applicable for building **
 ## ⃝ Thank You
 
 A warm thank you to Twitter and [Oliver Turner](https://twitter.com/oliverturner) for help with the name.<br><br>
-Thank you from all of my heart to everyone at Framer for building such an awesome tool and a supportive [community](https://framer.com/community/)
+Thank you with all of my heart to everyone at Framer for building such an awesome tool and a supportive [community](https://framer.com/community/)
